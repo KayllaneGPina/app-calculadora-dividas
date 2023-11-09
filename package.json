@@ -1,0 +1,16 @@
+{
+  "name": "calculadora-dividas",
+  "version": "1.0.0",
+  "description": "A proposta desse projeto é criar um sistema que calcule os juros de uma dívida com base no número de dias passados. Isso será feito utilizando conteúdos que aprendemos em JavaScript.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
