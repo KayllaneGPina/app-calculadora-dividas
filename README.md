@@ -19,8 +19,12 @@ Nosso projeto é um sistema que recebe do usuário o valor da dívida e seu temp
 1 -  Primeiramente o usuário informa o valor devido:
 ![img](/img/valor-divida.png)
 
+---
+
 2 - Em seguida ele informa o número de dias em atraso:
 ![img](/img/dias-atraso.png)
+
+---
 
 3 - Os valores são usados para calcular os juros e o resultado é colocado na tela:
 ![img](/img/resultado.png)
@@ -30,6 +34,8 @@ Nosso projeto é um sistema que recebe do usuário o valor da dívida e seu temp
 ### Resultado Final
 1 - Com **10%** de juros
 ![img](/img/dez-porcento.png)
+
+---
 
 2 - Com **5%** de juros
 ![img](/img/cinco-porcento.png)
